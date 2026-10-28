@@ -1,0 +1,18 @@
+export const AMENITY_LABELS = {
+  wifi: "Wifi",
+  pool: "Pool",
+  spa: "Spa",
+  breakfast: "Breakfast",
+  parking: "Parking",
+  gym: "Gym",
+  beach: "Beach access",
+  ac: "Air conditioning",
+  restaurant: "Restaurant",
+  bar: "Bar",
+  fireplace: "Fireplace",
+  boat: "Boat jetty",
+  mountain: "Mountain trail",
+  garden: "Garden",
+  workspace: "Work desk",
+  lake: "Lake view",
+};
